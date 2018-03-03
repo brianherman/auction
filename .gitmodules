@@ -1,0 +1,9 @@
+[submodule "auction_alexa"]
+	path = auction_alexa
+	url = git@github.com:brianherman/auction_alexa.git
+[submodule "auction_server"]
+	path = auction_server
+	url = git@github.com:brianherman/auction_server.git
+[submodule "auction_static"]
+	path = auction_static
+	url = git@github.com:brianherman/auction_static.git
