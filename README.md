@@ -3,6 +3,9 @@ The original purpose of this project was to create a alexa app that would watch 
 Unfortunately I cannot figure out how to get my app published so I decided to open source everything.
 You need a aws account to run all the example code. This is non negotiable. You will also need 2 domain names through route 53 for the ssl certificates and hosting of static assets.
 
+Auction alexa
+this is a python application written in flask
+
 #Prerequisites Windows
 For this project you need to install python 3.6. You can download that from [here](https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe).
 
